@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pfeilbr/travis-ci-node-example.svg?branch=master)](https://travis-ci.org/pfeilbr/travis-ci-node-example)
+
 ## travis-ci-node-example
 
 simple example of using travis ci for a node module.
